@@ -39,6 +39,7 @@ public class Main {
             System.out.println("8. View Cart");
             System.out.println("9. Exit ");
             System.out.println("Rohit Patil");
+            System.out.println("Rohit Patil");
             System.out.print("Enter your choice: ");
 
             int choice = sc.nextInt();
