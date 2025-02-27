@@ -22,6 +22,8 @@ public class CartService  {
         product.setQuantity(product.getQuantity()-quantity);
 //        jsonFilehandler.saveProduct(product);
         Logger.logInfo("Product added to cart.");
+        System.out.println("Rohit");
+
     }
 
     public List<CartItem> viewCart(){
