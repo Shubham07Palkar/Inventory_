@@ -1,0 +1,16 @@
+[ {
+  "id" : 101,
+  "name" : "samsungS23FE",
+  "price" : 120000.0,
+  "quantity" : 12
+}, {
+  "id" : 102,
+  "name" : "iphone16",
+  "price" : 120000.0,
+  "quantity" : 12
+}, {
+  "id" : 101,
+  "name" : "oppo 13",
+  "price" : 12344.0,
+  "quantity" : 12
+} ]
